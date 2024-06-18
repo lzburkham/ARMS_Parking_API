@@ -13,13 +13,13 @@ ENCUMBRANCETYPE = Citation,Credit,Permit
 PERMITTYPE = GetPermitSalesDetailReport,GetAllActivePermit  
 
 # Banner DB configs
-BAN_DB_URL=<INSERT BANNER URL HERE>  
+BAN_DB_URL=< INSERT BANNER URL HERE >  
 BAN_DB_USER=< INSERT USER HERE>  
-BAN_DB_PASSWORD=<ENCODED PASSWORD STRING HERE>  
-BAN_DB_REFKEY=<ENCODED REFKEY HERE>  
-BAN_DB_PORT=<DB PORT>  
-BAN_DB_SERVICE_NAME=<SERVICE NAME>  
-BAN_DIALECT=<DIALECT>  
+BAN_DB_PASSWORD=< ENCODED PASSWORD STRING HERE >  
+BAN_DB_REFKEY=< ENCODED REFKEY HERE >  
+BAN_DB_PORT=< DB PORT >  
+BAN_DB_SERVICE_NAME=< SERVICE NAME >  
+BAN_DIALECT=< DIALECT >  
   
 To populate the encoded password and refkey, run ./methods/password_encryptor.py and update line 5 with your password as a string ex. PASSWORD='mypassword123'  
   
