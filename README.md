@@ -1,3 +1,8 @@
+WARNING, THIS PROJECT IS STILL UNDER CONSTRUCTION AND IS INTENDED FOR EDUCATIONAL PURPOSES ONLY.
+
+TO DO:
+- Connect to DB and write API results to custom table
+
 This is intended to help Ellucian Banner Schools with their implementation of ARMS Parking API
 
 This projects requires a .env file be placed in the root directory with the following format:
